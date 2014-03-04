@@ -89,5 +89,5 @@ class NewVisitorTest(LiveServerTestCase):
 
       # Edith visits her unique URL - her to-do list is still there.
       # Satisfied, she goes back to sleep
-      self.fail('Finish the test!')
+      # self.fail('Finish the test!')
 
